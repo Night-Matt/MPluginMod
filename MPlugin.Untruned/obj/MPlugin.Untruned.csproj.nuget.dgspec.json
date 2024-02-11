@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Matt\\.Net_C#\\Matt插件\\独立框架\\框架\\MPlugin.Untruned\\MPlugin.Untruned.csproj": {}
+  },
+  "projects": {
+    "D:\\Matt\\.Net_C#\\Matt插件\\独立框架\\框架\\MPlugin.Untruned\\MPlugin.Untruned.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Matt\\.Net_C#\\Matt插件\\独立框架\\框架\\MPlugin.Untruned\\MPlugin.Untruned.csproj",
+        "projectName": "MPlugin.Untruned",
+        "projectPath": "D:\\Matt\\.Net_C#\\Matt插件\\独立框架\\框架\\MPlugin.Untruned\\MPlugin.Untruned.csproj",
+        "packagesPath": "C:\\Users\\24722\\.nuget\\packages\\",
+        "outputPath": "D:\\Matt\\.Net_C#\\Matt插件\\独立框架\\框架\\MPlugin.Untruned\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\24722\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

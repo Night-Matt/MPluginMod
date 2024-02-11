@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MPlugin.Untruned
+build_property.ProjectDir = D:\Matt\.Net_C#\Matt插件\独立框架\框架\MPlugin.Untruned\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
